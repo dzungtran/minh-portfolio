@@ -1,5 +1,5 @@
 ---
-author: VicBox
+author: Minh Nguyen
 publishDate: 2024-12-20T15:20:35Z
 title: Customizing color schemes of Astro Simple Portfolio
 tags:
@@ -18,11 +18,11 @@ Astro Simple Portfolio provides a straightforward way to adapt to your system’
 
 ## Table of Contents
 
-1. [Introduction to System-Preferred Light & Dark Mode](#introduction-to-system-preferred-light--dark-mode)
-2. [Enabling or Disabling Dark Mode Support](#enabling-or-disabling-dark-mode-support)
-3. [Updating Tailwind Config](#updating-tailwind-config)
-4. [Testing Your Changes](#testing-your-changes)
-5. [Additional Tips & Best Practices](#additional-tips--best-practices)
+- [Table of Contents](#table-of-contents)
+- [Introduction to System-Preferred Light \& Dark Mode](#introduction-to-system-preferred-light--dark-mode)
+- [Updating Tailwind Config](#updating-tailwind-config)
+  - [Changing the Default Palette](#changing-the-default-palette)
+- [Testing Your Changes](#testing-your-changes)
 
 ---
 
