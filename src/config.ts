@@ -1,8 +1,8 @@
 export const SITE = {
-    website: "https://simple-portfolio.vicbox.dev", // replace this with your deployed domain
+    website: "https://minhnguyenn.com", // replace this with your deployed domain
     title: "Minh Nguyen's Portfolio",
     description: "A simple but beautiful portfolio created with Astro",
-    tags: ["portfolio", "Resume cv", "Astro"],
+    tags: ["portfolio", "Resume cv", "SEO"],
     ogImage: "/og-image.webp",
     logo: "logo",
     logoText: "Portfolio",
@@ -10,7 +10,7 @@ export const SITE = {
     favicon: "/favicon.png",
     // repository: "https://github.com/vito8916/simple-portfolio.git",
     author: "Minh Nguyen",
-    profile: "https://victoralvarado.dev/",
+    profile: "https://www.linkedin.com/in/minhhnguyenn",
 }
 
 export const ME = {
@@ -36,9 +36,7 @@ export const ME = {
         linkedin: "https://www.linkedin.com/in/minhhnguyenn",
         resumeDoc: "resume.pdf",
     },
-    aboutMe: "I am a software engineer with a passion for web development. I have experience in building web " 
-    + "applications using modern technologies. I am a self-taught developer who enjoys learning new things and " 
-    + "sharing knowledge with others.",
+    aboutMe: "I am a marketer with a passion for SEO and marketing. I have experience in SEO, growth, platform and digital campaign management.",
 }
 
 export const SOCIALS = [
