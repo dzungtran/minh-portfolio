@@ -1,11 +1,11 @@
 export const SITE = {
     website: "https://minhnguyenn.com", // replace this with your deployed domain
     title: "Minh Nguyen's Portfolio",
-    description: "A simple but beautiful portfolio created with Astro",
+    description: "Being positive and organized are things I have earned during the career development. You can't avoid ups and downs to develop yourself.",
     tags: ["portfolio", "Resume cv", "SEO"],
-    ogImage: "/og-image.webp",
-    logo: "logo",
-    logoText: "Portfolio",
+    ogImage: "",
+    logo: "logo.png",
+    logoText: "Minh Nguyen's Portfolio",
     lang: "en",
     favicon: "/favicon.png",
     // repository: "https://github.com/vito8916/simple-portfolio.git",
