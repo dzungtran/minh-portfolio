@@ -9,33 +9,24 @@ interface Education {
 }
 
 const  education: Education[] = [
-    // {
-    //     title: "General English",
-    //     startDate: "2024-09-01",
-    //     endDate: "",
-    //     school: "University Name",
-    //     location: "United States",
-    //     description: "Developed and maintained web applications using React, NodeJs, and MongoDB.",
-    //     currentUni: true,
-    // },
-    // {
-    //     title: "Bachelor of Science in Computer Science",
-    //     startDate: "2014-09-01",
-    //     endDate: "2018-06-30",
-    //     school: "University Name",
-    //     location: "United States",
-    //     description: "Developed and maintained web applications using React, NodeJs, and MongoDB.",
-    //     currentUni: false,
-    // },
-    // {
-    //     title: "Bachelor of Science in Computer Science",
-    //     startDate: "2012-09-01",
-    //     endDate: "2013-06-30",
-    //     school: "University Name",
-    //     location: "United States",
-    //     description: "Developed and maintained web applications using React, NodeJs, and MongoDB.",
-    //     currentUni: false,
-    // },
+    {
+        title: "International Business",
+        startDate: "2014-01-01",
+        endDate: "2018-12-01",
+        school: "Arcada University of Applied Sciences",
+        location: "Finland",
+        description: "Bachelor's degree, International Business",
+        currentUni: false,
+    },
+    {
+        title: "International Business",
+        startDate: "2017-01-01",
+        endDate: "2017-12-30",
+        school: "Kyung Hee University",
+        location: "South Korea",
+        description: "Exchange Student, International Business.",
+        currentUni: false,
+    },
 ];
 
 export default education;

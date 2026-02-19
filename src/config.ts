@@ -36,7 +36,7 @@ export const ME = {
         linkedin: "https://www.linkedin.com/in/minhhnguyenn",
         resumeDoc: "resume.pdf",
     },
-    aboutMe: "I am a marketer with a passion for SEO and marketing. I have experience in SEO, growth, platform and digital campaign management.",
+    aboutMe: "I am a marketer with a passion for SEO and marketing. I have experience in SEO, growth, platform and digital campaign management. Being positive and organized are things I have earned during the career development. You can't avoid ups and downs to develop yourself.",
 }
 
 export const SOCIALS = [

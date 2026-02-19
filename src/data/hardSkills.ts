@@ -6,25 +6,57 @@ interface HardSkill {
 
 const hardSkills: HardSkill[] = [
   {
-    name: "AstroJs",
-    description: "My favorite static site generator for building modern websites",
-    icon: "astro_dark"
+    name: "SEO Content",
+    description:
+      "Manage teams, propose SEO strategies, content plans, and data reports.",
+    icon: "record",
   },
   {
-    name: "NextJs",
-    description: "My favorite React framework for building modern web apps",
-    icon: "nextjs_icon_dark"
+    name: "Technical & Off-Page SEO",
+    description:
+      "Develop technical SEO checklists and optimization guidelines.",
+    icon: "toolbox",
   },
   {
-    name: "NodeJs",
-    description: "I've been using NodeJs for backend development since 2018",
-    icon: "nodejs"
+    name: "GEO, AEO, AIO",
+    description:
+      "R&D, test, and implement AI prompts for improved search touchpoints.",
+    icon: "microphone",
   },
   {
-    name: "MongoDB",
-    description: "My favorite database for modern apps",
-    icon: "mongodb"
-  }
+    name: "Other Search Touchpoints",
+    description: "ASO, Local Map, and SEO for YouTube.",
+    icon: "eye-password",
+  },
+
+  {
+    name: "Martech & Platform Growth (CRO)",
+    description:
+      "Implement and monitor tracking for CRO touchpoints on platforms.",
+    icon: "reminder-alert",
+  },
+  {
+    name: "Data Analysis",
+    description:
+      "Manage data from BI, Web, App, CRM, and Ads for growth decisions.",
+    icon: "headphones",
+  },
+  {
+    name: "Website Platform Management",
+    description:
+      "Manage website migration and act as PO for marketing-tech team collaboration.",
+    icon: "setting",
+  },
+  {
+    name: "Google Ads",
+    description: "Monitor, Implement Google Ads campaigns",
+    icon: "diagnosis",
+  },
+  {
+    name: "Content Marketing",
+    description: "Create strategy, direction for YouTube, FB, Insta, Zalo",
+    icon: "pencil",
+  },
 ];
 
 export default hardSkills;
